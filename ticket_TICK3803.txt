@@ -1,0 +1,7 @@
+Ticket ID: TICK3803
+Name: aditya
+Bus: BUS303
+Seats: 2
+Date: 12-9-2025
+Payment: UPI
+Fare: ₹400
